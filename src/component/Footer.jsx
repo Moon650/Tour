@@ -29,7 +29,7 @@ const Footer = () =>{
                 <h4>Project</h4>
                 <a href="/">Changelog</a>
                 <a href="/">Status</a>
-                <a href="/">Lincense</a>
+                <a href="/">License</a>
                 <a href="/">All Versions</a>
             </div>
 
@@ -52,7 +52,7 @@ const Footer = () =>{
                 <h4>Others</h4>
                 <a href="/">Terms of Services</a>
                 <a href="/">Privacy of policy</a>
-                <a href="/">Lincense</a>
+                <a href="/">License</a>
             </div>
             
         </div>
